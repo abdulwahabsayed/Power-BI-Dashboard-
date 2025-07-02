@@ -1,2 +1,2 @@
 # Power-BI-Dashboard-
-This my power bi dashboard
+This is my power bi dashboard
